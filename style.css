@@ -1,0 +1,70 @@
+
+.form-control{
+  width: 50%;
+}
+/* champs input */
+.form2,.form3,.form4,.form5,.form6,.form7,.form8,.form9,.form10,.form-control{
+  width: 100%;
+  border-top-left-radius:18px;
+  border-bottom-right-radius:18px;
+  border-top-right-radius:18px;
+  border-bottom-left-radius:18px;
+  display: flex;
+  padding: 1.5%;
+  box-shadow: 10px white;
+}
+/* champs user */
+.form1{
+  position:relative;
+  padding:11%;
+  margin-left:0.75%;
+ 
+}
+.form1,.form-control{
+  border-right-width: 90%
+}
+/* button de retour */
+.btn-success{
+  border-radius: 70%;
+  font-size: 22px;
+  margin-bottom: 7%;
+}
+/* message d'alert modal */
+.alert-info{
+  background: none;
+  color:black;
+}
+/* corps de la page */
+body{
+  background: #eee;
+  color:black;
+
+  
+}
+
+.titre{
+  text-align: center;
+  margin-top: 2%;
+}
+#user{
+  width: 100%;
+}
+#back0{
+  border:none;
+  background:none;
+}
+#fa-arrow-left{
+  color:#eee;
+}
+.modal-title{
+  color: black;
+}
+.info1,.info2,.info3,.info4,.info5,.info6,.info7,.info8,.info9{
+  color: black;
+  margin-left:1.5%;
+}
+.btn-primary{
+  padding: 3%;
+}
+
+
